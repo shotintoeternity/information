@@ -55,7 +55,7 @@ body {
 }
 
 #nav-list li a {
-    font-size: 1.5em;
+    font-size: 3.5em;
     color: #fff;
     transition: .3s all;
 }
@@ -131,10 +131,6 @@ video#bgvid {
     #nav-list li a {
         font-size: 2em;
     }
-	#nav-list h2 {
-		font-size: 1.5em;
-		color: white;
-	}
 }
 
 @media (max-width: 480px) {
